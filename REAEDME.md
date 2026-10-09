@@ -24,12 +24,12 @@ devops-hackathon-de001-trungphong/
 ├── nginx/
 │   └── trungphong-k24cntt1.conf
 ├── screenshots/
-│   ├── 01-user.png
-│   ├── 02-software-git.png
-│   ├── 03-nginx-test.png
-│   ├── 04-website.png
-│   ├── 05-ufw-status.png
-│   └── 06-update-check.png
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├── 
+│   └── 
 ├── .gitignore
 └── README.md
 ```
